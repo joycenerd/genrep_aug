@@ -12,7 +12,7 @@ This repository is the implementation of final project for 5003 Deep Learning an
 In this final project we use GAN steerability as an data augmentation technique. The inspiration is coming from [GAN steerability](https://arxiv.org/pdf/1907.07171.pdf), and [GenRep](https://arxiv.org/pdf/2106.05258.pdf) these two papers. In this project, we investigate image transformation by exploring walks in the latent space of GAN. And we conclude that GAN steerability is a better data augmentation technique compare to transformation done in the data space
 
 <p align="center">
-  <img src="./figure/quality.PNG" width="300" />
+  <img src="./figure/quality.PNG" width="500" />
 </p>
 
 ## Getting the code
